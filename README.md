@@ -13,6 +13,15 @@ npm install
 
 ```
 
+## Run Grafbase Dev Server
+
+First, install the dependencies:
+
+```bash
+npx grafbase dev
+
+```
+
 
 Then, run the development server:
 
